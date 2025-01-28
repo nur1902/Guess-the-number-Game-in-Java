@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class practice {
+public class GuessTheGame {
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
